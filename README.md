@@ -1,4 +1,4 @@
-![Web Developer](file:///D:/WEB%20DEVELOPMENT/Image%20File/Orange%20and%20White%20Geometric%20Food%20Vlogger%20YouTube%20Channel%20Art.png)
+file:///C:/Users/User/Downloads/Brown%20Minimalist%20Profile%20LinkedIn%20Article%20Cover%20Image.png
 ### Hi there 👋, My name is Md. Matibul Islam
 #### Web Developer
 
