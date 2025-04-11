@@ -1,6 +1,7 @@
-file:///C:/Users/User/Downloads/Brown%20Minimalist%20Profile%20LinkedIn%20Article%20Cover%20Image.png
-### Hi there 👋, My name is Md. Matibul Islam
+![Web Developer](https://prnt.sc/ur2fgfHSUhhp)
+# Hi there 👋, My name is Md. Matibul Islam
 #### Web Developer
+
 
 I'm a digital marketing & cybersecurity specialist and also a WP website developer.
 
@@ -27,5 +28,7 @@ Skills: Digital Marketing Services like SEO, Keyword Research, Website Audit, Co
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/matibulislam)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/matibulislam)  
+
+
 
 
