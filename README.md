@@ -1,4 +1,4 @@
-C:\Users\User\Downloads\Img.jpg
+
 # Hi there 👋, My name is Md. Matibul Islam
 #### Digital Creator & Web Developer.
 
