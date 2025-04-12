@@ -1,4 +1,4 @@
-![Digital Creator & Web Developer.](https://prnt.sc/ur2fgfHSUhhp)
+file:///C:/Users/User/Downloads/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image%20(1).png
 # Hi there 👋, My name is Md. Matibul Islam
 #### Digital Creator & Web Developer.
 
