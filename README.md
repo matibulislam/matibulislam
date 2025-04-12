@@ -1,4 +1,4 @@
-file:///C:/Users/User/Downloads/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.png
+C:\Users\User\Downloads\Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image.jpg
 # Hi there 👋, My name is Md. Matibul Islam
 #### Digital Creator & Web Developer.
 
