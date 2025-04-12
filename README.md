@@ -1,6 +1,5 @@
 ### Hi there 👋, Md. Matibul Islam
 #### Digital Creator & Web Developer
-![Digital Creator & Web Developer](C:\Users\User\Desktop\img.jpg)
 
 I'm a digital marketing & cybersecurity specialist and also a WP website developer.
 
