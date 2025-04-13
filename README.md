@@ -17,7 +17,7 @@
 
 🤔 Ask me about Digital Marketing & Cybersecurity. 
 
-  **🚀 About Me**
+  **🚀 About Me:**
 
 I’m a Digital Marketing & Cybersecurity Specialist and passionate about making error-free security solutions with 100% client satisfaction. I am intense about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with Digital Marketing & Cybersecurity field but some technologies I enjoy working with include JavaScript as well as PHP.
 
