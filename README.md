@@ -3,7 +3,7 @@
 
 👑 I'm a Digital Marketing & Cybersecurity Specialist.
 
-🖊️ Love to Create a new hirizon.
+🖊️ Love to Create a new horizon.
 
 🎤 Like to share my knowledge.
 
