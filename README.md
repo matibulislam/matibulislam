@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Engr. Md. Matibul Islam👋
 ![img](https://github.com/user-attachments/assets/dad61c40-78b4-4432-82c1-3ff924f7aed4)
 
-👑 I'm a Digital Marketing & Cybersecurity Expart.
+👑 I'm a Digital Marketing & Cybersecurity Specialist.
 
 🖊️ Love to Create a new hirizon.
 
