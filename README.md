@@ -2,8 +2,8 @@
 
 ### Hi there 👋, I am Md. Matibul Islam
 
-#### Digital Creator & Web Developer
-I'm a digital marketing & cybersecurity specialist and also a WP website developer.
+#### Digital Cretor
+I'm a digital marketing & cybersecurity specialist.
 
 Skills: Skills: Digital Marketing Services like SEO, Keyword Research, Website Audit, Competitor Analysis, Content Writing, Social Media Marketing, WordPress Website Development & Cyber Security Services like Vulnerability Assessment and Penetration Testing (VAPT), Malware Removal, Cryptography and Cyber Forensics and also Wp-Web Developer.
 
