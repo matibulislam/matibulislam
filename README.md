@@ -23,7 +23,7 @@ I’m a Digital Marketing & Cybersecurity Specialist and passionate about making
 
   **👨‍💻 My Skills & Experiance:**
 
-My Skillness: Digital Marketing Services like SEO, Keyword Research, Website Audit, Competitor Analysis, Content Writing, Social Media Marketing, WordPress Website Development & Cyber Security Services like Vulnerability Assessment and Penetration Testing (VAPT), Malware Removal, Cryptography and Cyber Forensics and also Wp-Web Developer.
+**My Skillness:** Digital Marketing Services like SEO, Keyword Research, Website Audit, Competitor Analysis, Content Writing, Social Media Marketing, WordPress Website Development & Cyber Security Services like Vulnerability Assessment and Penetration Testing (VAPT), Malware Removal, Cryptography and Cyber Forensics and also Wp-Web Developer. I'm working in this field from 4+ years.
 
   **☕ Connect with me!**
 
